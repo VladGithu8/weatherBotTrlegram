@@ -6,7 +6,8 @@
 
 При старте работы предусмотрено приветствие. Так же реализована кнопка **Я могу...** чтоб напомнить функционал бота.
 
-<img scr="Screenshot's/1.jpg" width="50">
+<img scr="Screenshot's/1.jpg" width="50" >
+
 ![](Screenshot's/2.jpg)
 ![](Screenshot's/3.jpg)
 ![](Screenshot's/4.jpg)
