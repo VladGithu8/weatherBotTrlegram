@@ -1,10 +1,10 @@
-# API Телеграмм бот
-## Отображает погоду в городах и странах
+# API Telegram bot
+## Displays the weather in cities and countries
 
-Бот создан с помощью **API openweathermap.org**
-Так же была использована библиотека **JSON**
+Bot was created with **API openweathermap.org**
+Also was used library **JSON**
 
-При старте работы предусмотрено приветствие. Так же реализована кнопка **Я могу...** чтоб напомнить функционал бота.
+At the start of work, is provided greeting. **Я могу...** button is also implemented to remind the bot functionality.
 
 
 ![](Screenshot's/1.jpg)
@@ -12,28 +12,28 @@
 ![](Screenshot's/3.jpg)
 ![](Screenshot's/4.jpg)
 
-Так же для удобства реализована клавиатура с несколькими крупными городами Украины.
+For convenience, there are keyboard with several major cities of Ukraine implemented.
 
-Бот **отвечает** пользователю сообщением с такими **пунктами** как:
+The bot **replies** to the user with such message as:
 
-**Сообщение бота** |
+**Bot message** |
 ------------ |
-Город  |
-Температура| 
-Погодные условия|
-Влажность|
+City |
+Temperature |
+Weather conditions |
+Humidity |
 
 ![](Screenshot's/5.jpg)
 ![](Screenshot's/6.jpg)
 ![](Screenshot's/7.jpg)
 ![](Screenshot's/8.jpg)
 
-Бот сообщает погоду в конкретное время.
 
-Если ввести **несуществующий город** - бот ответит: **Такого города не найден!**
+The bot reports the weather now.
+
+If you enter ** non-existent city ** - the bot will answer: **Такого города не найден!**
 
 ![](Screenshot's/9.jpg)
 
-Запустите робота с помощью **Telegrambot_weather.jar** файла.
-
-Команда для запуска: **java -jar Telegrambot_weather.jar**
+Start the robot with **Telegrambot_weather.jar** file.
+Command to run: **java -jar Telegrambot_weather.jar**
