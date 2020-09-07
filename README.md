@@ -6,10 +6,10 @@
 
 При старте работы предусмотрено приветствие. Так же реализована кнопка **Я могу...** чтоб напомнить функционал бота.
 
- <img scr="Screenshot's/1.jpg" width="100" >
- <img scr="Screenshot's/2.jpg" width="50" height="100">
- <img scr="Screenshot's/3.jpg" width="50" height="100">
- <img scr="Screenshot's/4.jpg" width="50" height="100">
+ <img scr="Screenshot's/1.jpg" width="100" height="200">
+ <img scr="Screenshot's/2.jpg" width="100" height="200">
+ <img scr="Screenshot's/3.jpg" width="100" height="200">
+ <img scr="Screenshot's/4.jpg" width="100" height="200">
 
 
 Так же для удобства реализована клавиатура с несколькими крупными городами Украины.
