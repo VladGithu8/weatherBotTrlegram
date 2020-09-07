@@ -173,8 +173,7 @@ public class Weather {
                 "Влажность: "+ model.getHumidity() +"%";
     }
     public static String getWeatherPoltava(String message, Model model) throws IOException, MalformedURLException {
-        URL url = new URL("http://api.openweathermap.org/data/2.5/weather?q=Poltava&units=metric&lang=ru&6xcki9876ytrfdxhyt5r4ewqaZX    ASwq1   asW21   `QZASw21`       Q1 `     ` 1 Q2`    Q1W23E4R5TY6S7US8IS9O0P[]P09O8I7U6T54R3E2W1Q    Q24R5T6Y7SU8I0P[09O7UY6T54R3EQ&appid=b9c29dcc94c52263f11ad3656fb86a29");
-
+        URL url = new URL("http://api.openweathermap.org/data/2.5/weather?q=Poltava&units=metric&lang=ru&&appid=b9c29dcc94c52263f11ad3656fb86a29");
         Scanner in = new Scanner((InputStream) url.getContent());
         String result = "";
         while(in.hasNext()) {
@@ -200,3 +199,4 @@ public class Weather {
                 "Влажность: "+ model.getHumidity() +"%";
     }
 }
+
